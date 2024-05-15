@@ -1,7 +1,11 @@
- # 4 items about me
+ # 6 items about me
 
  - I love Git
  - I like this lesson
+
  - I have a cat
  - I like a cup of tea
  - I like study
+
+ - I have a cat
+
